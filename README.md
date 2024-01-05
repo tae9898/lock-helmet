@@ -1,4 +1,5 @@
 # lock-helmet
 lock system (share electric kick scooter - helmet )
 
-특허 관련이라 프로젝트 마친 후 자료 올라갑니다
+성적 : A+
+국민대학교 캡스톤디자인 경진대회 시제품 부분 대상
